@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './cat.png';
 import './App.css';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           data-testid = "learn-link"
         >
-          Learn React
+          Learn Testing w/ cat
         </a>
       </header>
     </div>
